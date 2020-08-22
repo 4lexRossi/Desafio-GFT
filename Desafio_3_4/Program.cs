@@ -6,8 +6,12 @@ namespace Desafio_3.Conta
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine("Hello World!");
+            ContaCorrente contaCorEx = new ContaCorrente("0090", "Alex Rossi", 1000.75);
+            ContaPoupanca contaPoupEx = new ContaPoupanca("0080", "Elis Rossi", 1000.08);
+
+            Console.WriteLine(contaCorEx);
+            Console.WriteLine();
+            Console.WriteLine(contaPoupEx);
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/meus-projetos/Etapa-GFT/Desafio_3/Desafio_3.csproj": {}
+    "/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/Desafio_3.csproj": {}
   },
   "projects": {
-    "/home/alex/meus-projetos/Etapa-GFT/Desafio_3/Desafio_3.csproj": {
+    "/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/Desafio_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/meus-projetos/Etapa-GFT/Desafio_3/Desafio_3.csproj",
+        "projectUniqueName": "/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/Desafio_3.csproj",
         "projectName": "Desafio_3",
-        "projectPath": "/home/alex/meus-projetos/Etapa-GFT/Desafio_3/Desafio_3.csproj",
+        "projectPath": "/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/Desafio_3.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/meus-projetos/Etapa-GFT/Desafio_3/obj/",
+        "outputPath": "/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"

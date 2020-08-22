@@ -1,0 +1,13 @@
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/bin/Debug/netcoreapp3.1/Desafio_3
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/bin/Debug/netcoreapp3.1/Desafio_3.deps.json
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/bin/Debug/netcoreapp3.1/Desafio_3.runtimeconfig.json
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/bin/Debug/netcoreapp3.1/Desafio_3.runtimeconfig.dev.json
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/bin/Debug/netcoreapp3.1/Desafio_3.dll
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/bin/Debug/netcoreapp3.1/Desafio_3.pdb
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.csprojAssemblyReference.cache
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.AssemblyInfoInputs.cache
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.AssemblyInfo.cs
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.csproj.CoreCompileInputs.cache
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.dll
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.pdb
+/home/alex/meus-projetos/Etapa-GFT/Desafio_3_4/obj/Debug/netcoreapp3.1/Desafio_3.genruntimeconfig.cache

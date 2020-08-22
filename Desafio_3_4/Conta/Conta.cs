@@ -1,11 +1,19 @@
-using System;
-
 namespace Desafio_3.Conta
 {
-  public class Conta
+  public abstract class Conta
     {
-        public int Numero { get; set; }
+        public string Numero { get; set; }
         public string Titular { get; set; }
-        public int Saldo { get; set; }
+        public double Saldo { get; set; }
+
+        protected Conta(string numero, string titular, double saldo)
+        {
+            Numero = numero;
+            Titular = titular;
+            Saldo = saldo;
+        }
+
+        public abstract double RendimentoContas();
+
     }
 }
